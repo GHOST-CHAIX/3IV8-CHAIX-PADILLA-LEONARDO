@@ -125,6 +125,6 @@ class ejercicios{
         System.out.println("Desea continuar S / N");
         respuesta = entrada.nextLine();
         } while (respuesta.equals("S"));
-        
+        System.out.println("Adios");
     }//metodo
 }//clase
